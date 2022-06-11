@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/curdToDoList/static/css/main.1f237c09.css",
+    "main.js": "/curdToDoList/static/js/main.93d38496.js",
+    "static/media/to-do-list.png": "/curdToDoList/static/media/to-do-list.8c238d01f8132f052978.png",
+    "index.html": "/curdToDoList/index.html",
+    "main.1f237c09.css.map": "/curdToDoList/static/css/main.1f237c09.css.map",
+    "main.93d38496.js.map": "/curdToDoList/static/js/main.93d38496.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f237c09.css",
+    "static/js/main.93d38496.js"
+  ]
+}
